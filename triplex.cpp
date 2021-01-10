@@ -27,12 +27,13 @@ int main() {
     std::cout <<  "The sum of numbers is " << sum << "." << std::endl;
     std::cout <<  "The product equals " << product << "." << std::endl;
     std::cout << std::endl;
+    std::cout << "TEST TEST";
 
+    /*
     int PlayerGuess;
     std::cin >> PlayerGuess;
     std::cout << "You entered: " << PlayerGuess;
-    
-    std::cout << "TEST TEST";
+    */
 
     // Return Statement
     return 0; 
