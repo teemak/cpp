@@ -32,8 +32,9 @@ int main() {
     std::cin >> GuessA;
     std::cin >> GuessB;
     std::cin >> GuessC;
-    std::cout << "You entered: " << GuessA << GuessB << GuessC;
-    
+
+    int GuessSum = GuessA + GuessB + GuessC;
+    int GuessProduct = GuessA * GuessB * GuessC;
 
     // Return Statement
     return 0; 
