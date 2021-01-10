@@ -3,9 +3,10 @@
 // std namespace
 // :: scope operator
 // << outputs string
-int main() {
+/*int main() {
     std::cout << "Not using namespace std";
     // using namespace allows next line to compile
     //cout << "Hello World!";
     return 0;
 }
+*/

@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/*
 int main() {
     string FirstName, LastName;
     
@@ -13,3 +13,4 @@ int main() {
 
     return 0;
 }
+*/
